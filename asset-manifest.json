@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.410bc458.css",
-    "main.js": "/static/js/main.faf66176.js",
+    "main.css": "/static/css/main.6eb7f20d.css",
+    "main.js": "/static/js/main.bdaeda0e.js",
     "static/js/453.c06d755b.chunk.js": "/static/js/453.c06d755b.chunk.js",
     "static/media/logo.png": "/static/media/logo.d90cea776dd1d85aadb7.png",
-    "static/media/Resume Aug2024.pdf": "/static/media/Resume Aug2024.4306e8e912d9425daad5.pdf",
+    "static/media/TANISHA RAO2026v2.pdf": "/static/media/TANISHA RAO2026v2.422f27dfbf8e4bad4830.pdf",
     "static/media/tanisha2026.jpeg": "/static/media/tanisha2026.e9fb834921bdab421780.jpeg",
     "static/media/github.png": "/static/media/github.4e904bca1ccbf2b6a38c.png",
     "static/media/linkedin.png": "/static/media/linkedin.f4759f73f1720a9bf1e0.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.410bc458.css.map": "/static/css/main.410bc458.css.map",
-    "main.faf66176.js.map": "/static/js/main.faf66176.js.map",
+    "main.6eb7f20d.css.map": "/static/css/main.6eb7f20d.css.map",
+    "main.bdaeda0e.js.map": "/static/js/main.bdaeda0e.js.map",
     "453.c06d755b.chunk.js.map": "/static/js/453.c06d755b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.410bc458.css",
-    "static/js/main.faf66176.js"
+    "static/css/main.6eb7f20d.css",
+    "static/js/main.bdaeda0e.js"
   ]
 }
